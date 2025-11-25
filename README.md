@@ -1,5 +1,5 @@
 # 💸 Expense Tracker CLI
-
+Sample solution for the [github-user-activity](https://github.com/sayan14banerjee/expence_tracker_cli) challenge from [roadmap.sh](https://roadmap.sh/projects/expense-tracker)
 A simple and powerful [**Command-Line Expense Tracker**](https://github.com/sayan14banerjee/expence_tracker_cli) application built using Python.  
 It allows users to add, update, delete, view, and summarize expenses — all from the terminal.
 
